@@ -23,5 +23,4 @@ This project is a web-based application that uses a machine learning model to re
 
 ---
 
-## 📁 Project Structure
 
